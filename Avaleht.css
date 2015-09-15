@@ -1,0 +1,84 @@
+h1 {
+    color:red;
+    text-shadow: 2px 2px black;
+}
+body {
+    background-image: url("http://komunalac-sisak.hr/wp-content/uploads/2014/08/light_green_backgrounds_011_dekstop_hd_wallpapers_wfz.jpg");
+}
+
+table{
+    background-image: url("http://www.webdesignhot.com/wp-content/uploads/2013/03/Light-Background-Green-Abstract-Vector.jpg");
+    background-repeat: repeat-y;
+}
+#one {
+    border-radius:25px;
+    background-color:yellow;
+    border-style:dotted;
+    height: 120px;
+    width:650px;
+    font-family: fantasy;
+    position: relative;
+}
+#two{
+    border-radius:25px;
+    background-color:red;
+    border-style:dotted;
+    height: 100px;
+    width:650px;
+    color: white;
+    font-size: 17px;
+    padding-bottom:15px;
+}
+#three {
+    border-radius:25px;
+    background-color:yellow;
+    border-style:dotted;
+    box-shadow: 5px 5px 2px #888888;
+    height: 70px;
+    width:150px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+div p{
+    max-width: 1000px;
+    min-width: 10px;
+    font-family: inherit;
+    font-size: 24px;
+    font-weight:bold;
+    margin:auto;
+    line-height: 130%;
+}
+div p img{
+    float:right;
+}
+a:link {
+    color:blue;
+    text-decoration:none;
+    vertical-align: text-bottom;
+}
+a:visited{
+    color:yellow;
+    text-decoration:none;
+    vertical-align: text-bottom;
+}
+a:hover{
+    color:purple;
+    text-decoration:underline;
+    vertical-align: text-bottom;
+}
+a:active{
+    color:green;
+    text-decoration:underline;
+    vertical-align: text-bottom;
+}
+#lemmik{
+    display:inline;
+}
+ul.aa {
+    list-style-type: square;
+}

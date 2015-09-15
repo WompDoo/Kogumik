@@ -10,27 +10,27 @@
 <h1 align="center"><img src="https://s-media-cache-ak0.pinimg.com/736x/e8/ea/0d/e8ea0d273f49a2c99eb88ab66b295fba.jpg"  align="right" width="150px" height="150px"/><u>Heigo Kure Tutvustav Koduleht</u></h1>
 <h3><a href="https://www.facebook.com/heigo.kure?fref=ts" style=color:red>Heigo Kure FB</a></h3>
 <div id="one"><ul>
-    <li>Olen s¸ndinud 24.06.1995</li>
+    <li>Olen s√ºndinud 24.06.1995</li>
     <li>Kasvanud Tartus</li>
-    <li>Endine kool Tartu Descartes'i L¸tseum</li>
+    <li>Endine kool Tartu Descartes'i L√ºtseum</li>
         <li>Praegune kool Tartu Kutsehariduskeskus</li>
 </ul>
 </div>
 <h4>Hobid, tegevused:</h4>
 <div id="two"><ol>
-    <li><img src="http://www.animatedimages.org/data/media/159/animated-basketball-image-0029.gif" align="right" width="100px" height="100px"/>M‰ngin korvpalli</li>
-    <li>K‰in jıusaalis raskusi tıstmas ja kenade tydrukutega tutvusi loomas</li>
-    <li>M‰ngin arvutim‰nge: v‰ga meeldib <a href="http://origin.lolking.net/summoner/euw/20470609#profile">League of Legends</a> ja CS:GO</li>
+    <li><img src="http://www.animatedimages.org/data/media/159/animated-basketball-image-0029.gif" align="right" width="100px" height="100px"/>M√§ngin korvpalli</li>
+    <li>K√§in j√µusaalis raskusi t√µstmas ja kenade tydrukutega tutvusi loomas</li>
+    <li>M√§ngin arvutim√§nge: v√§ga meeldib <a href="http://origin.lolking.net/summoner/euw/20470609#profile">League of Legends</a> ja CS:GO</li>
 </ol>
 </div>
 <h4>Natuke minu eelistustest:</h4>
     <ul>
-        <p id="lemmik">Lemmik v‰rv roheline</p>
+        <p id="lemmik">Lemmik v√§rv <span style="color:green; font-size:25px">roheline</span></p>
         <br>
         <br>
         <ul>
             <table width="500" border="3" cellpadding="5" style="border-color: green">
-                <th colspan="2">Lemmik n‰itlejad</th>
+                <th colspan="2">Lemmik n√§itlejad</th>
 
                 <tr>
                     <td align="center" valign="center"><img src="http://www.bellazon.com/main/uploads/monthly_01_2008/post-774-1200395745.jpg" width="250px" height="200px" />
@@ -57,10 +57,10 @@
 <hr>
 <div>
 <p><img src="http://images.forum-auto.com/mesimages/575114/Opel%20Astra%20-%20Politsei%20Estonie%20-%20Rietze.jpg" width="200" height="150"/>Mulle meeldib
-    r‰pp. Kuulan pidevalt <a href="https://en.wikipedia.org/wiki/Eminem">Eminem</a>'i, <a href="https://en.wikipedia.org/wiki/Hopsin">Hopsin</a>'i,
+    r√§pp. Kuulan pidevalt <a href="https://en.wikipedia.org/wiki/Eminem">Eminem</a>'i, <a href="https://en.wikipedia.org/wiki/Hopsin">Hopsin</a>'i,
     <a href="https://en.wikipedia.org/wiki/Tech_N9ne">Tech n9ne</a>'i ja vahest <a href="https://en.wikipedia.org/wiki/Die_Antwoord">Die Antwoord</a>'i. Mul on
-    ema, isa, vanaema, kahjuks mul ıdesid ja vendi pole. Tahan saada arvutigraafikuks vıi programmeerijaks.
-    Lapsena meeldis mulle mudelautodega m‰ngida, sest arvutit mul polnud. Muidu olen tore ja sıbralik s‰ga. </p>
+    ema, isa, vanaema, kahjuks mul √µdesid ja vendi pole. Tahan saada arvutigraafikuks v√µi programmeerijaks.
+    Lapsena meeldis mulle mudelautodega m√§ngida, sest arvutit mul polnud. Muidu olen tore ja s√µbralik s√§ga. </p>
 </div>
 </body>
 </html>

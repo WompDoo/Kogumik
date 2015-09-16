@@ -33,11 +33,11 @@
                 <th colspan="2">Lemmik näitlejad</th>
 
                 <tr>
-                    <td align="center" valign="center"><img src="http://www.bellazon.com/main/uploads/monthly_01_2008/post-774-1200395745.jpg" width="250px" height="200px" />
+                    <td id="dic"><img id="leo" src="http://www.bellazon.com/main/uploads/monthly_01_2008/post-774-1200395745.jpg" />
                 <br>
                         <span style="cursor:not-allowed">Leonardo Dicaprio</span>
                 </td>
-                <td align="center" valign="center"><img src="http://cdn.wegotthiscovered.com/wp-content/uploads/url34.jpg" width="250px" height="200px"  />
+                <td id="john"><img id="johhn" src="http://cdn.wegotthiscovered.com/wp-content/uploads/url34.jpg"  />
                     <br>
                     <span style="cursor:not-allowed">Johnny Depp</span>
                 </td>
@@ -46,7 +46,9 @@
             </table>
 
         </ol>
-        <p><strong>Lemmik filmid:</strong></p>
+        <br/>
+        <div><strong>Lemmik filmid:</strong></div>
+        <br/>
         <div id="three"><ul class="aa">
             <li>Mad Max</li>
         <li>Avengers</li>
@@ -56,7 +58,7 @@
         </ul>
 <hr>
 <div>
-<p><img src="http://images.forum-auto.com/mesimages/575114/Opel%20Astra%20-%20Politsei%20Estonie%20-%20Rietze.jpg" width="200" height="150"/>Mulle meeldib
+<p><img id="pol" src="http://images.forum-auto.com/mesimages/575114/Opel%20Astra%20-%20Politsei%20Estonie%20-%20Rietze.jpg"/>Mulle meeldib
     räpp. Kuulan pidevalt <a href="https://en.wikipedia.org/wiki/Eminem">Eminem</a>'i, <a href="https://en.wikipedia.org/wiki/Hopsin">Hopsin</a>'i,
     <a href="https://en.wikipedia.org/wiki/Tech_N9ne">Tech n9ne</a>'i ja vahest <a href="https://en.wikipedia.org/wiki/Die_Antwoord">Die Antwoord</a>'i. Mul on
     ema, isa, vanaema, kahjuks mul õdesid ja vendi pole. Tahan saada arvutigraafikuks või programmeerijaks.

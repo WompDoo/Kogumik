@@ -7,7 +7,7 @@
 </head>
 <!--Avaleht rohelist v2rvi-->
 <body>
-<h1 align="center"><img src="https://s-media-cache-ak0.pinimg.com/736x/e8/ea/0d/e8ea0d273f49a2c99eb88ab66b295fba.jpg"  align="right" width="150px" height="150px"/><u>Heigo Kure Tutvustav Koduleht</u></h1>
+<h1><img id="joint"  src="https://s-media-cache-ak0.pinimg.com/736x/e8/ea/0d/e8ea0d273f49a2c99eb88ab66b295fba.jpg" /><u>Heigo Kure Tutvustav Koduleht</u></h1>
 <h3><a href="https://www.facebook.com/heigo.kure?fref=ts" style=color:red>Heigo Kure FB</a></h3>
 <div id="one"><ul>
     <li>Olen sündinud 24.06.1995</li>
@@ -18,18 +18,18 @@
 </div>
 <h4>Hobid, tegevused:</h4>
 <div id="two"><ol>
-    <li><img src="http://www.animatedimages.org/data/media/159/animated-basketball-image-0029.gif" align="right" width="100px" height="100px"/>Mängin korvpalli</li>
+    <li><img id="korv" src="http://www.animatedimages.org/data/media/159/animated-basketball-image-0029.gif" />Mängin korvpalli</li>
     <li>Käin jõusaalis raskusi tõstmas ja kenade tüdrukutega tutvusi loomas</li>
     <li>Mängin arvutimänge: väga meeldib <a href="http://origin.lolking.net/summoner/euw/20470609#profile">League of Legends</a> ja CS:GO</li>
 </ol>
 </div>
 <h4>Natuke minu eelistustest:</h4>
     <ul>
-        <p id="lemmik">Lemmik värv <span style="color:green; font-size:25px">roheline</span></p>
-        <br>
-        <br>
-        <ul>
-            <table width="500" border="3" cellpadding="5" style="border-color: green">
+        <div id="lemmik">Lemmik värv <span style="color:green; font-size:25px">roheline</span></div>
+        <br/>
+        <br/>
+        <ol>
+            <table id="table">
                 <th colspan="2">Lemmik näitlejad</th>
 
                 <tr>
@@ -45,7 +45,7 @@
 
             </table>
 
-        </ul>
+        </ol>
         <p><strong>Lemmik filmid:</strong></p>
         <div id="three"><ul class="aa">
             <li>Mad Max</li>

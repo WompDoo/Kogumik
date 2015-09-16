@@ -1,6 +1,7 @@
 h1 {
     color:red;
     text-shadow: 2px 2px black;
+    text-align: center;
 }
 body {
     background-image: url("http://komunalac-sisak.hr/wp-content/uploads/2014/08/light_green_backgrounds_011_dekstop_hd_wallpapers_wfz.jpg");
@@ -84,4 +85,19 @@ ul.aa {
 }
 #lemmik {
     font-size: 20px;
+}
+#joint{
+    width:150px;
+    height:150px;
+    float:right;
+}
+#korv{
+    width:100px;
+    height:100px;
+    float:right;
+}
+#table{
+    width:500px;
+    padding: 5px;
+    border: 3px solid green;
 }

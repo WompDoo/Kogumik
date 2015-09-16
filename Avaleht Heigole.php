@@ -19,7 +19,7 @@
 <h4>Hobid, tegevused:</h4>
 <div id="two"><ol>
     <li><img src="http://www.animatedimages.org/data/media/159/animated-basketball-image-0029.gif" align="right" width="100px" height="100px"/>Mängin korvpalli</li>
-    <li>Käin jõusaalis raskusi tõstmas ja kenade tydrukutega tutvusi loomas</li>
+    <li>Käin jõusaalis raskusi tõstmas ja kenade tüdrukutega tutvusi loomas</li>
     <li>Mängin arvutimänge: väga meeldib <a href="http://origin.lolking.net/summoner/euw/20470609#profile">League of Legends</a> ja CS:GO</li>
 </ol>
 </div>
